@@ -1,4 +1,4 @@
-Companion application for optc (Android only for now).
+Helper application for optc (Android only for now).
 
 What you can do now
 
